@@ -84,6 +84,8 @@ The app will create a personalized, bulleted itinerary based on your inputs.
 ```
 
 ---
+![Screenshot 2024-12-30 021327](https://github.com/user-attachments/assets/32e5fe46-ec8c-4172-8a20-fa16c5e439f8)
+
 
 ## Customization
 1. **Model Parameters**: Adjust the `temperature` or `model_name` parameters in the `ChatGroq` object to fine-tune model behavior.
